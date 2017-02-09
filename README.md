@@ -1,5 +1,7 @@
 # Flick-Finder
 
+**Summary:**
+
 This iOS application was part of Udacity's iOS Developer Nanodegree program as a practice application. Allowing users to download/view image content from the Flickr API.
 
 **The application offers the following features:**
