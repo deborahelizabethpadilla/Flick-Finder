@@ -1,4 +1,4 @@
-# Flick-Finder
+# Flick Finder
 
 **Summary:**
 
