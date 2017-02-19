@@ -2,7 +2,7 @@
 
 **Summary:**
 
-This iOS application was part of Udacity's iOS Developer Nanodegree program as a practice application. Allowing users to download/view image content from the Flickr API.
+This iOS application was part of Udacity's [iOS Developer Nanodegree](https://www.udacity.com) program as a practice application. Allowing users to download/view image content from the Flickr API.
 
 **The application offers the following features:**
 
